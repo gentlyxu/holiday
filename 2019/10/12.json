@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":1,"name":"国庆节后调休","week":6},"holiday":{"holiday":false,"name":"国庆节后调休","after":true,"wage":1,"target":"国庆节","date":"2019-10-12"}}
+{"code":0,"type":{"type":0,"name":"国庆节后调休","week":6},"holiday":{"holiday":false,"name":"国庆节后调休","after":true,"wage":1,"target":"国庆节","date":"2019-10-12"}}
