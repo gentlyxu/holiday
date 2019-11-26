@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":1,"name":"周日","week":7},"holiday":null}
+{"code":0,"type":{"type":1,"name":"春节前调休","week":7},"holiday":{"holiday":false,"name":"春节前调休","after":false,"wage":1,"target":"春节","date":"2020-01-19"}}

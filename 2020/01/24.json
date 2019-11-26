@@ -1,1 +1,1 @@
-{"code":0,"type":{"type":0,"name":"周五","week":5},"holiday":null}
+{"code":0,"type":{"type":2,"name":"除夕","week":5},"holiday":{"holiday":true,"name":"除夕","wage":2,"date":"2020-01-24"}}

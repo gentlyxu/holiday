@@ -4,8 +4,8 @@ import os
 
 
 def main():
-    date_begin = datetime.date(2019, 10, 1)
-    date_end = datetime.date(2020, 2, 1)
+    date_begin = datetime.date(2020, 1, 1)
+    date_end = datetime.date(2021, 2, 1)
 
     delta = datetime.timedelta(days=1)
     d = date_begin
